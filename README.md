@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 With 11 years of professional experience, including the last 5 years in tech, I specialize in Vue.js, Shopware 6, Angular, PHP, and MySQL. I excel in product design, data analytics, and web scraping, creating intuitive digital experiences. My diverse background and fast learning ability enable me to deliver high-performance, scalable solutions. I have successfully led cross-functional teams, enhanced application performance, boosted user engagement, and developed effective web scraping tools. I love fixing bugs and finding solutions quickly. I thrive in collaborative environments, mentoring junior developers and driving projects from concept to completion.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [behance](http://www.behance.net/gallery/200535661/Akshay-nikhare-Profolio)
+* 🖥️  See my portfolio at [Github Pages](http://akshaynikhare.github.io/portfolio/)
 * ✉️  You can contact me at [akshay@cadnative.com](mailto:akshay@cadnative.com)
 * 🧠  I'm learning Android App Development
 * 🤝  I'm open to collaborating on Shopware 6 & Angular
