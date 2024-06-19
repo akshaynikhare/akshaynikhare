@@ -3,8 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 **Full Stack Developer | Shopware 6 Specialist | Vue.js , Angular &amp; Product Design Enthusiast** 
 
-
-With 11 years of professional experience, including the last 5 years in tech, I specialize in Vue.js, Shopware 6, Angular, PHP, and MySQL. I excel in product design, data analytics, and web scraping, creating intuitive digital experiences. My diverse background and fast learning ability enable me to deliver high-performance, scalable solutions. I have successfully led cross-functional teams, enhanced application performance, boosted user engagement, and developed effective web scraping tools. I love fixing bugs and finding solutions quickly. I thrive in collaborative environments, mentoring junior developers and driving projects from concept to completion.
+Self-taught, Innovative Shopware Developer , with 11 years of professional experience, including the last 5 years in tech, I specialize in Vue.js, SQL, PHP, git ,svn , npm and Docker, excelling at crafting dynamic user experiences. Equipped with a Computer Science degree and a relentless drive for innovation. Expertise in frontend and backend development, theme customization, plugin development, UI/UX design, responsive design, performance optimization, e-commerce functionality, testing, debugging, and client collaboration. I love fixing bugs and finding solutions quickly. I thrive in collaborative environments, mentoring junior developers and driving projects from concept to completion.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Github Pages](http://akshaynikhare.github.io/portfolio/)
