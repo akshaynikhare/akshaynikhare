@@ -10,7 +10,7 @@ Self-taught, Innovative Shopware Developer , with 11 years of professional exper
 * ✉️  You can contact me at [akshay@cadnative.com](mailto:akshay@cadnative.com)
 * 🧠  I'm learning Android App Development & Angular
 * 🤝  I'm open to collaborating on Shopware 6 
-* ⚡  As a side project, I'm currently developing [FireVisionIPTV](https://github.com/akshaynikhare/FireVisionIPTV)
+* ⚡  As a side project, I'm currently developing [ReviewHub - pdf Design Review Tool](https://github.com/akshaynikhare/ReviewHub)
 
 ### Support Me  / Hire me
 
