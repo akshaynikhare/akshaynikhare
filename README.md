@@ -14,7 +14,7 @@ Self-taught, Innovative Shopware Developer , with 11 years of professional exper
 
 ### Support Me  / Hire me
 
-<a href="https://www.buymeacoffee.com/akshayvict0"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a> 
+<a href="https://www.buymeacoffee.com/akshaynikhare"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a> 
 <a href="https://www.upwork.com/freelancers/~017f2cc5c3af16f399"><img src="images/upwork-default-buy.png" width="150"/></a> 
 <a href="https://www.fiverr.com/slox47"><img src="images/fiverr-default-buy.png" width="150"/></a> 
 
